@@ -16,6 +16,7 @@ export default defineConfig({
     ]
   ],
   themeConfig: {
+    siteTitle:'Z2H',
     // https://vitepress.dev/reference/default-theme-config
     // nav: [
     //   { text: 'Home', link: '/' },
@@ -34,6 +35,11 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/liamwang' }
-    ]
+    ],
+
+    footer: {
+      message: 'Z2H.CN',
+      copyright: `版权所有 © 2023-${new Date().getFullYear()} 王亮`
+    },
   }
 })
