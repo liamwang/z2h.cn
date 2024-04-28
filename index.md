@@ -17,7 +17,7 @@ hero:
 features:
   - title: 我的博客
     details: 专注于 Dotnet 和前端开发，同步公众号【精致码农】。很久没有更新了。
-    link: https://liamw.cn
+    link: https://liam.z2h.cn
   - title: Z2H 字帖
     details: 超级好用且功能超多的字帖在线生成工具，号称“家长的福利，小孩的恶梦”。
     link: https://paper.z2h.cn
