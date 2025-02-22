@@ -23,9 +23,9 @@ features:
     icon: 📝
     details: 超级好用且功能超多的字帖在线生成工具，号称“家长的福利，小孩的恶梦”。
     link: https://paper.z2h.cn
-  - title: HeyPi 小程序
-    icon: 🤖
-    details: 一个简洁的 AI 小程序，对接的是 Azure OpenAI 接口。微信搜索 HeyPI 即可找到它。
-    link: https://eazai.com
+  # - title: HeyPi 小程序
+  #   icon: 🤖
+  #   details: 一个简洁的 AI 小程序，对接的是 Azure OpenAI 接口。微信搜索 HeyPI 即可找到它。
+  #   link: https://eazai.com
 ---
 

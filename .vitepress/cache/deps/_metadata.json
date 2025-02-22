@@ -1,40 +1,40 @@
 {
-  "hash": "9f1712ac",
-  "configHash": "661843f2",
-  "lockfileHash": "350d6c7a",
-  "browserHash": "a0db523a",
+  "hash": "1ae56b27",
+  "configHash": "cdb11c21",
+  "lockfileHash": "8cb164fe",
+  "browserHash": "566603bc",
   "optimized": {
     "vue": {
-      "src": "../../../node_modules/.pnpm/vue@3.4.21/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "src": "../../../node_modules/.pnpm/vue@3.5.13/node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "9ef47ed3",
+      "fileHash": "42086bdb",
       "needsInterop": false
     },
     "vitepress > @vue/devtools-api": {
-      "src": "../../../node_modules/.pnpm/@vue+devtools-api@7.0.17_vue@3.4.21/node_modules/@vue/devtools-api/dist/index.js",
+      "src": "../../../node_modules/.pnpm/@vue+devtools-api@7.7.2/node_modules/@vue/devtools-api/dist/index.js",
       "file": "vitepress___@vue_devtools-api.js",
-      "fileHash": "c56dca25",
+      "fileHash": "193c0a92",
       "needsInterop": false
     },
     "vitepress > @vueuse/core": {
-      "src": "../../../node_modules/.pnpm/@vueuse+core@10.9.0_vue@3.4.21/node_modules/@vueuse/core/index.mjs",
+      "src": "../../../node_modules/.pnpm/@vueuse+core@12.7.0/node_modules/@vueuse/core/index.mjs",
       "file": "vitepress___@vueuse_core.js",
-      "fileHash": "a7eff02a",
+      "fileHash": "883b9891",
       "needsInterop": false
     },
     "@theme/index": {
-      "src": "../../../node_modules/.pnpm/vitepress@1.0.0-rc.45_@algolia+client-search@4.22.1_search-insights@2.13.0/node_modules/vitepress/dist/client/theme-default/index.js",
+      "src": "../../../node_modules/.pnpm/vitepress@1.6.3_@algolia+cl_4fc3149441fddf8687a83fe27a46e2b1/node_modules/vitepress/dist/client/theme-default/index.js",
       "file": "@theme_index.js",
-      "fileHash": "daae667e",
+      "fileHash": "7365f655",
       "needsInterop": false
     }
   },
   "chunks": {
-    "chunk-Q6HKY6GG": {
-      "file": "chunk-Q6HKY6GG.js"
+    "chunk-TGSRWDKH": {
+      "file": "chunk-TGSRWDKH.js"
     },
-    "chunk-OOO2W3XR": {
-      "file": "chunk-OOO2W3XR.js"
+    "chunk-CQOUZRMK": {
+      "file": "chunk-CQOUZRMK.js"
     }
   }
 }
