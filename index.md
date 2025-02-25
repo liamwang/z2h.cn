@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Z2H = Zero to Hero"
-  text: "Everyone can go from Zero to Hero"
-  tagline: Welcome to my products
+  text: ""
+  tagline: <div>With ample practice and the right method, one rises from zero to hero.</div><br/><br/><div style="font-size:0.8em;margin-bottom:-30px;">Welcome to my products</div>
   # actions:
   #   - theme: brand
   #     text: Markdown Examples
@@ -17,15 +17,15 @@ hero:
 features:
   - title: 我的博客
     icon: 📰
-    details: 专注于 Dotnet 和前端开发，同步公众号【精致码农】。很久没有更新了。
+    details: 专注于写点 Dotnet 和前端开发的文章，同步公众号<b>精致码农</b>，很久没有更新了。
     link: https://liam.z2h.cn
   - title: Z2H 字帖
     icon: 📝
-    details: 超级好用且功能超多的字帖在线生成工具，号称“家长的福利，小孩的恶梦”。
+    details: 一个字帖在线生成工具，轻松定制专属字帖，排版样式随心调，控笔练习一键生成，助力高效练字！
     link: https://paper.z2h.cn
-  # - title: HeyPi 小程序
-  #   icon: 🤖
-  #   details: 一个简洁的 AI 小程序，对接的是 Azure OpenAI 接口。微信搜索 HeyPI 即可找到它。
-  #   link: https://eazai.com
+  - title: 个人导航站
+    icon: 🚀
+    details: 精心整理的我个人高频访问或喜欢的网站、实用工具及学习资源，方便查找和浏览。
+    link: https://bookmark.z2h.cn
 ---
 
