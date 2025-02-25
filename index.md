@@ -3,9 +3,12 @@
 layout: home
 
 hero:
-  name: "Z2H = Zero to Hero"
-  text: ""
-  tagline: <div>With ample practice and the right method, one rises from zero to hero.</div><br/><br/><div style="font-size:0.8em;margin-bottom:-30px;">Welcome to my products</div>
+  name: Z2H
+  text: Zero to Hero = Z2H
+  tagline: With ample practice and the right method, one rises from zero to hero.
+  actions:
+    - text: Welcome to my products ↓
+      theme: alt
   # actions:
   #   - theme: brand
   #     text: Markdown Examples
