@@ -1,0 +1,7 @@
+.copyright {
+  font-size: 13px !important;
+  line-height: 20px !important;
+}
+.copyright > a {
+  text-decoration: none !important;
+}

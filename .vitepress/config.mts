@@ -1,11 +1,18 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Z2H = Zero to Hero",
   description: "Everyone can go from zero to hero.",
   head: [
-    ['script', {defer : '', src: 'https://umm.z2h.cn/script.js', 'data-website-id': "22e4eaf3-09bd-46cc-9206-abda3d576e8b"}],
+    [
+      "script",
+      {
+        defer: "",
+        src: "https://umm.z2h.cn/script.js",
+        "data-website-id": "22e4eaf3-09bd-46cc-9206-abda3d576e8b",
+      },
+    ],
     // [
     //   'script',
     //   {},
@@ -16,7 +23,7 @@ export default defineConfig({
     // ]
   ],
   themeConfig: {
-    siteTitle:'Z2H',
+    siteTitle: "Z2H",
     // https://vitepress.dev/reference/default-theme-config
     // nav: [
     //   { text: 'Home', link: '/' },
@@ -33,13 +40,11 @@ export default defineConfig({
     //   }
     // ],
 
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/liamwang' }
-    ],
+    socialLinks: [{ icon: "github", link: "https://github.com/liamwang" }],
 
     footer: {
-      message: 'Z2H.CN',
-      copyright: `版权所有 © 2023-${new Date().getFullYear()} 王亮`
+      // message: ``,
+      copyright: `版权所有 © 2023-${new Date().getFullYear()}  Z2H.CN <br/> <a href="https://beian.miit.gov.cn/">沪ICP备15020427号-7</a>`,
     },
-  }
-})
+  },
+});
